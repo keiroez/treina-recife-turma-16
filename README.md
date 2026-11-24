@@ -19,6 +19,7 @@ Para fazer os exercícios, trabalhe numa cópia da pasta da aula: assim o `git p
 - [Aula 01 · Lógica, projeto e pilares da POO](poo-java/aula-01) ([página da aula](https://treina-16.izaquielqueiroz.dev/poo-java/aula-01/))
 - [Aula 02 · Classes, objetos e encapsulamento](poo-java/aula-02) ([página da aula](https://treina-16.izaquielqueiroz.dev/poo-java/aula-02/))
 - [Aula 03 · Herança](poo-java/aula-03) ([página da aula](https://treina-16.izaquielqueiroz.dev/poo-java/aula-03/))
+- [Aula 04 · Polimorfismo e abstração](poo-java/aula-04) ([página da aula](https://treina-16.izaquielqueiroz.dev/poo-java/aula-04/))
 
 ---
 
